@@ -70,7 +70,7 @@ Cart Page
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/e-mart.git
+https://github.com/Bhargavsaireddy29/React-emart
 ```
 
 2. Navigate to project folder:
